@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/plate-iq/precache-manifest.e2b7c01e963ca0f1d07b3af0ff0587b9.js"
+  "/plate-iq/precache-manifest.e50bf629a7a1d821bbcba17994ae7093.js"
 );
 
 workbox.clientsClaim();

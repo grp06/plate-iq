@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "14a7d8a5975c2dae5fee",
+    "revision": "6cbce716e2cb1324ad18",
     "url": "/plate-iq/static/css/main.2adc732c.chunk.css"
   },
   {
-    "revision": "14a7d8a5975c2dae5fee",
-    "url": "/plate-iq/static/js/main.14a7d8a5.chunk.js"
+    "revision": "6cbce716e2cb1324ad18",
+    "url": "/plate-iq/static/js/main.6cbce716.chunk.js"
   },
   {
     "revision": "24a848cd0a93f37ea46e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/plate-iq/static/media/mail.2b84946c.svg"
   },
   {
-    "revision": "bd80ba43d1a7fc8d5661b6580f12fd30",
+    "revision": "ffcc64017c964312834543e9f2906e7b",
     "url": "/plate-iq/index.html"
   }
 ];

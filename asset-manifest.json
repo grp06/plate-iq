@@ -1,7 +1,7 @@
 {
   "main.css": "/plate-iq/static/css/main.2adc732c.chunk.css",
-  "main.js": "/plate-iq/static/js/main.14a7d8a5.chunk.js",
-  "main.js.map": "/plate-iq/static/js/main.14a7d8a5.chunk.js.map",
+  "main.js": "/plate-iq/static/js/main.6cbce716.chunk.js",
+  "main.js.map": "/plate-iq/static/js/main.6cbce716.chunk.js.map",
   "static/css/1.d03bff29.chunk.css": "/plate-iq/static/css/1.d03bff29.chunk.css",
   "static/js/1.24a848cd.chunk.js": "/plate-iq/static/js/1.24a848cd.chunk.js",
   "static/js/1.24a848cd.chunk.js.map": "/plate-iq/static/js/1.24a848cd.chunk.js.map",
@@ -15,6 +15,6 @@
   "static/css/main.2adc732c.chunk.css.map": "/plate-iq/static/css/main.2adc732c.chunk.css.map",
   "static/css/1.d03bff29.chunk.css.map": "/plate-iq/static/css/1.d03bff29.chunk.css.map",
   "index.html": "/plate-iq/index.html",
-  "precache-manifest.e2b7c01e963ca0f1d07b3af0ff0587b9.js": "/plate-iq/precache-manifest.e2b7c01e963ca0f1d07b3af0ff0587b9.js",
+  "precache-manifest.e50bf629a7a1d821bbcba17994ae7093.js": "/plate-iq/precache-manifest.e50bf629a7a1d821bbcba17994ae7093.js",
   "service-worker.js": "/plate-iq/service-worker.js"
 }
